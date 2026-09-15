@@ -1,3 +1,6 @@
+![Total Downloads](https://img.shields.io/github/downloads/rakibkhan8787/OmniCalc-Download/total.svg?style=for-the-badge&color=success&label=Total+Downloads)
+
+
 ​✨ অ্যাপটির বিশেষ ফিচারসমূহ:
 
 ➤ ​অ্যাডভান্সড ক্যালকুলেশন: বেসিক, সাইন্টিফিক এবং কমপ্লেক্স নাম্বারের নির্ভুল হিসাব।
